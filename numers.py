@@ -1,1 +1,3 @@
-print("sum is ",7+8)
+## git-scm.org
+## skills.github.com
+olympus.mygreatlearning.com/coursew/53846
